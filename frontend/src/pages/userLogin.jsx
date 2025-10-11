@@ -59,7 +59,7 @@ const UserLogin = () => {
         </form>
         <p className="text-center">
           New Here?{" "}
-          <Link to="/signup" className="text-blue-600">
+          <Link to="/user-signup" className="text-blue-600">
             Create new Account
           </Link>
         </p>
